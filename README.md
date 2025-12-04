@@ -1,21 +1,33 @@
-<h1>Hi, I'm Mohamoud Diallo, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Mohamoud Diallo — Aspiring IT Support Specialist ☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<p>
+Welcome to my GitHub! I’m building hands-on experience in IT Support, Cloud Technologies, and Help Desk operations by creating real labs inside Microsoft Azure and using enterprise tools like osTicket.
+</p>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+<h2>👨‍💻 Information Technology Projects</h2>
 
-<h2>🤳Connect with me:</h2>
+<ul>
+  <li><b>osTicket (Help Desk Ticketing System)</b>
+    <ul>
+      <li><a href="YOUR_OSTICKET_REPO_LINK_HERE">osTicket Ticket Management Lab</a></li>
+    </ul>
+  </li>
+  
+  <li><b>Microsoft Azure</b>
+    <ul>
+      <li><a href="YOUR_AZURE_VM_REPO_LINK_HERE">Azure Virtual Machine Deployment & RDP Setup</a></li>
+    </ul>
+  </li>
+</ul>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2>📚 Skills I’m Practicing</h2>
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+- Ticketing Systems (osTicket)
+- Help Desk Workflow (SLA, Departments, Ticket Lifecycle)
+- Virtual Machines (Azure Compute)
+- RDP & Remote Administration
+- Active Directory (Coming Soon)
+- Networking Concepts (Ports, DNS)
+- Troubleshooting & Technical Documentation
+
+
